@@ -19,7 +19,7 @@ const App2 = () => {
 
 		fetchTodos();
 	}, []);
-
+	
 	return (
 		<div>
 			<div className="todo-wrapper"></div>

@@ -16,6 +16,7 @@ const App2 = () => {
 				console.log("Error", err);
 			}
 		};
+
 		fetchTodos();
 	}, []);
 

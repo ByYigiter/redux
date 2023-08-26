@@ -7,7 +7,7 @@ function App() {
   return (
         <div className='appClass'>
              <CounterValue/>
-          <CounterButtons/>
+             <CounterButtons/>
        
         </div>
   );
